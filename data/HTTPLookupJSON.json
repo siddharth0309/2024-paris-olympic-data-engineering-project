@@ -1,0 +1,27 @@
+[
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Athletes.csv",
+		"FileName":"Athletes.csv"
+	},
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Coaches.csv",
+		"FileName":"Coaches.csv"
+	},
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/EntriesGender.csv",
+		"FileName":"EntriesGender.csv"
+	},
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Medals.csv",
+		"FileName":"Medals.csv"
+	},
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Teams.csv",
+		"FileName":"Teams.csv"
+	}
+]
