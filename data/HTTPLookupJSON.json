@@ -1,27 +1,27 @@
 [
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
-		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Athletes.csv",
+		"RelativeURL":"siddharth0309/2024-paris-olympic-data-engineering-project/main/data/athletes.csv",
 		"FileName":"Athletes.csv"
 	},
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
-		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Coaches.csv",
+		"RelativeURL":"siddharth0309/2024-paris-olympic-data-engineering-project/main/data/coaches.csv",
 		"FileName":"Coaches.csv"
 	},
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
-		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/EntriesGender.csv",
+		"RelativeURL":"siddharth0309/2024-paris-olympic-data-engineering-project/main/data/events.csv",
 		"FileName":"EntriesGender.csv"
 	},
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
-		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Medals.csv",
+		"RelativeURL":"siddharth0309/2024-paris-olympic-data-engineering-project/main/data/medallists.csv",
 		"FileName":"Medals.csv"
 	},
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
-		"RelativeURL":"siddharth0309/2021-tokyo-olympic-data-engineering-project/main/data/Teams.csv",
+		"RelativeURL":"siddharth0309/2024-paris-olympic-data-engineering-project/main/data/teams.csv",
 		"FileName":"Teams.csv"
 	}
 ]
