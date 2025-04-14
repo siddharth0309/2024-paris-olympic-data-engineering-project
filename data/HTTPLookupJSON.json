@@ -12,12 +12,12 @@
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
 		"RelativeURL":"siddharth0309/2024-paris-olympic-data-engineering-project/main/data/events.csv",
-		"FileName":"EntriesGender.csv"
+		"FileName":"Events.csv"
 	},
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
 		"RelativeURL":"siddharth0309/2024-paris-olympic-data-engineering-project/main/data/medallists.csv",
-		"FileName":"Medals.csv"
+		"FileName":"Medallists.csv"
 	},
 	{
 		"BaseURL":"https://raw.githubusercontent.com",
